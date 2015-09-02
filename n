@@ -1,0 +1,6 @@
+echo "# bf-build-snappy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/androidbftab1/bf-build-snappy.git
+git push -u origin master

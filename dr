@@ -1,0 +1,1 @@
+docker run -d -p 2223:22 -v /media:/media androidbftab1/bpi-build-snappy
